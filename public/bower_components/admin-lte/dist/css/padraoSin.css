@@ -1,0 +1,364 @@
+.ui-autocomplete{
+    z-index: 3000 !important;
+}
+.text-left{
+    text-align: left !important;
+}
+.text-center{
+    text-align: center !important;
+}
+.border-0{
+    border: 0 !important;
+}
+.border-light{
+    border: 1px solid #ddd !important;
+}
+.align-middle{
+    vertical-align: middle !important;
+}
+p.form-control{
+  height: auto !important;  
+  min-height: 34px !important;
+}
+.align-middle{
+    vertical-align: middle !important;
+}
+.menu-lateral {
+    background-color: #25B399 !important;
+}
+
+.logo{
+    background-color: #25B399 !important;
+}
+
+.skin-blue .main-header .navbar {
+    background-color:#ffffff !important;
+}
+
+.skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a {
+    color: #fff;
+    background: #008B8B !important;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle {
+    color: #8B8989 !important;
+}
+
+.skin-blue .main-header .sidebar-toggle:hover {
+    background-color: #FFFFFF !important;
+}
+
+.skin-blue .sidebar a {
+    color: #FFFFFF !important;
+}
+
+.content-wrapper {
+    background-color: #FFFFFF !important;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #e9e8e8 !important;
+}
+
+.skin-blue .main-header li.user-header {
+    background-color: #25B399 !important;
+}
+
+.content-wrapper{
+    background-color: #ffffff !important;
+}
+
+.titulo-consulta{
+    font-weight:bold;
+}
+
+.table th, .table td{
+    white-space: nowrap;
+}
+.fake-input{
+    background: #F2F2F2 !important;
+    padding: 7px 5px;
+    border-radius: 5px;
+}
+.content {
+    padding-top: 1px !important;
+}
+
+.user-panel>.info {
+    line-height: 2.5 !important;
+}
+
+a#atividades{
+    float:left;
+    padding: 15px 15px;
+}
+
+.modal-header {
+    padding: 15px;
+    border-bottom: 1px solid #25B399 !important;
+    background-color: #25B399 !important;
+    color: #FFFFFF !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.select2.select2-container{
+    width: 100% !important;
+}
+.select2.select2-container .select2-selection span{
+    padding-left: 0 !important;
+}
+.link-header{
+    color: #25b399;
+    text-decoration: none !important;
+    font-weight: 700;
+}
+
+.link-header:hover, .link-header:active, .link-header:focus {
+    color: #25b399;
+}
+
+.nav-content{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+/* Modificação das Abas de versão do Treinamento */
+.nav-versao-ativa {
+    color: #25b399 !important;
+    text-align: center;
+    font-weight: bold;
+    background-color: #F5F5F5 !important;
+    border-bottom-color: #25B399 !important;
+    border-bottom: 1px solid !important;
+    border-left: 0px !important;
+    border-top: 0px !important;
+    border-right: 0px !important;
+}
+
+.nav-versao {
+    color: #25b399 !important;
+    text-align: center;
+    font-weight: bold;
+    background-color: #F5F5F5 !important;
+    border-bottom: 0px solid !important;
+    border-left: 0px !important;
+    border-top: 0px !important;
+    border-right: 0px !important;
+}
+
+
+/* Botão de Nova Versão */
+.btn-versao {
+    background-color: #25B399 !important;
+    border-color: #25B399 !important;
+}
+
+.readonly{
+    background:none !important;
+    border:none !important;
+    box-shadow: none !important;
+}
+
+.label-modal{
+    display: initial;
+}
+
+.not-label{
+    font-weight:100 !important;
+}
+
+.icon-disabled{
+    color:#bebebe !important;
+}
+
+.icon-enable{
+    color:#ffffff;
+}
+
+.nome-questao{
+    font-weight: 700;
+}
+
+div.questao{
+    margin: 20px 0px;
+}
+
+.btn-right{
+    float:right;
+}
+
+.titulo-resultado{
+    text-align:center;
+}
+.titulo-padrao{
+    color: #25B399;
+    margin-top: 8px;
+    margin-bottom:3px;
+}
+
+.btn-aprovado{
+    background-color: #25b399;
+    color: #fff;
+    margin:0 auto;
+}
+
+.aprovacao{
+    color: #25b399;
+}
+
+.reavaliacao{
+    color: #ce9e3d;
+}
+
+.reprovacao{
+    color: #990000;
+}
+
+.btn-resultado{
+    margin:35px auto;
+    text-align: center;
+}
+
+div.resultado{
+    display: block;
+}
+
+a.visualizar{
+    color: #25b399;
+}
+
+a.visualizar:hover{
+    text-decoration: none;
+    color: #25b399 !important;
+}
+
+.resultado-btn{
+    display: block;
+    text-align: center;
+}
+
+.disable{
+    color:#bebebe;
+}
+.margin-padrao{
+    margin: 2px 0;
+}
+
+.correto{
+    color:#3eac3e;
+    font-weight: 600;
+}
+
+.usuario-resposta-correta{
+    color:#3eac3e;
+    font-weight: 600;
+}
+
+.usuario-resposta-incorreta{
+    color:#cc4848;
+    font-weight: 600;
+}
+
+.title-modal-subheader{
+    font-weight:bold;
+    text-align: center;
+    color:#25B399;
+}
+
+.dados-realizacao-treinamento{
+    text-align:left;
+    font-weight: bold;
+    color: #25b399;
+}
+
+.resultado-treinamento{
+    text-align: right;
+    font-weight: bold;
+    color: #25b399;
+}
+
+.subheader-modal{
+    margin-bottom:10px;
+}
+
+.page-header-modal{
+    margin: 15px 0 20px !important;
+}
+
+.link-none{
+    text-decoration: none !important;
+}
+
+.enable{
+    color:#25b399;
+}
+
+.disable{
+    color:#bebebe;
+}
+
+.link-none:hover{
+    text-decoration: none !important;
+}
+
+.pl-0{
+    padding-left:0px !important;
+}
+
+.pl-5{
+    padding-left:5px !important;
+}
+
+.padding-0{
+    padding: 0 !important;
+}
+
+.m-5{
+    margin:5px !important;
+}
+
+.panel-body{
+    padding:10px !important;
+}
+
+.panel-default > .panel-heading{
+    background-color: #fff !important;
+    background:#fff !important;
+    border-color: #eee !important;
+}
+
+.panel-default{
+    border: 0px !important;
+}
+
+.panel-title{
+    font-size: 17px !important;
+    color: #25b399 !important;
+    font-weight: bold;
+}
+
+.panel{
+    box-shadow: none !important;
+}
+
+#img-loading{
+    display:block;
+    margin:50px auto;
+}
+
+.mb-15{
+    margin-bottom: 15px;
+}
+
+.btn-center{
+    display: block;
+    margin:0 auto;
+}
+
+.label-checkbox{
+    font-weight: normal !important;
+}
+
+.marcar{
+    float: right;
+}
